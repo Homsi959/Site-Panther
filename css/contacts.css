@@ -1,0 +1,161 @@
+nav {
+	margin-top: -40px;
+}
+
+.headline-3 {
+	padding: 30px 0;
+}
+
+#social-block ul {
+	margin-top: 0;
+}
+
+#wpar-map {
+	background: url(../img/contacts/map-fon-contacts.png) no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 1500px;
+}
+
+#wrap-letter {
+	background: url(../img/contacts/letter.png) no-repeat center;
+	width: 100%;
+	height: 1500px;
+	padding-top: 5px;
+}
+
+#letter {
+	width: 650px;
+	height: 500px;
+	margin: 270px auto 0 auto;
+	position: relative;
+}
+
+address {
+	text-align: center;
+}
+
+.address-contacts p {
+	margin: -40px -100px 0 0;
+
+}
+
+#letter hr {
+	height: 3px;
+	background-color: #ff0000;
+	border: none;
+	margin-top: 40px;
+}
+
+#letter h3 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 5px;
+	color: #ff0000;
+	letter-spacing: 1px;
+	font-size: 18px;
+}
+
+.left-box {
+	margin-left: 50px;
+	color: #0080C6;
+}
+
+ul {
+	margin-top: 40px;
+}
+
+ul li {
+	list-style: none;
+	font-weight: 900;
+	line-height: 18px;
+}
+
+#wrap-letter ul li:before {
+	content: "\f0c8 ";
+	font-family: FontAwesome;
+	color: #ff0000;
+	margin-right: 7px;
+	font-size: 7px;
+}
+
+.ul-right {
+	margin-top: 4px !important;
+}
+
+.ul-right li {
+	line-height: 30px;
+}
+
+span {
+	color: #e15b1d;
+}
+
+.phone {
+	margin: 20px 0;
+	border-left: solid 10px #ff5100;
+	padding-left: 10px;
+	font-weight: 900;
+	font-size: 14px;
+}
+
+.phone-3 {
+	margin: 0;
+	border-left: solid 10px #ff5100;
+	padding-left: 10px;
+	font-weight: 900;
+}
+
+.right-box {
+	width: 220px;
+	float: right;
+	margin-top: -197px;
+	color: #0080C6;
+}
+
+.contact {
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 350px;
+	text-align: center;
+	position: relative;
+}
+
+.contact h2 {
+	margin: 10px 0;
+	color: #0080C6;
+}
+
+.contact p {
+	margin-top: 10px;
+}
+
+.contact p a {
+	color: #0080C6;
+	text-decoration: underline;
+}
+
+.contact a:hover {
+	text-decoration: none;
+}
+
+.contact .google-link {
+	font-size: 30px;
+	position: absolute;
+	top: 220px;
+	left: -55px;
+	white-space: nowrap;
+}
+
+.contact .google-link {
+	text-decoration: underline;
+	color: #116b9c;
+}
+
+address {
+	margin-top: 60px !important;
+}
+
+address p {
+	margin-right: 50px;
+}
